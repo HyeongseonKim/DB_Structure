@@ -1,0 +1,13 @@
+그래프 자료구조의 ADT
+
+● void GraphInit(UALGraph* pg, int nv);
+  - 그래프의 초기화를 진행한다.
+
+● void GraphDestroy(UALGraph* pg);
+  - 그래프 초기화 과정에서 할당한 리소스를 반환한다.
+
+● void AddEdge(UALGraph* pg, int fromV, int toV);
+  - 매개변수 fromV와 toV로 전달된 정점을 연결한느 간선을 그래프에 추가한다.
+
+● void ShowGraphEdgeInfo(UALGraph* pg);
+  - 그래프의 간선정보를 출력한다.
