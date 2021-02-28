@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "ALGraph.h"
 #include "DLinkedList.h"
-
+// oh lord, thanks
 int WhoisPrecede(int data1, int data2);
 
 void GraphInit(ALGraph* pg, int nv
