@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 // oh lord, thanks
 =======
-// hallelujah
+// I'm lucky guy.
 >>>>>>> 845a33bf9cfb7f308b2416ea0224ed1f9bbb3db8
 int WhoisPrecede(int data1, int data2);
 
