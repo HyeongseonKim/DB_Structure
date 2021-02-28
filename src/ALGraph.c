@@ -3,6 +3,9 @@
 #include "ALGraph.h"
 #include "DLinkedList.h"
 
+
+// that's awesome
+
 int WhoisPrecede(int data1, int data2);
 
 void GraphInit(ALGraph* pg, int nv
