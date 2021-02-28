@@ -2,7 +2,11 @@
 #define __AL_GRAPH__
 
 #include "DLinkedList.h"  // 연결리스트를 가져다 쓴다.
+<<<<<<< HEAD
 // Wow
+=======
+//halleluya
+>>>>>>> 845a33bf9cfb7f308b2416ea0224ed1f9bbb3db8
 enum {A, B, C, D, E, F, G, H, I, J};
 
 typedef struct _ual
